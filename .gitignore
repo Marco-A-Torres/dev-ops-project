@@ -1,0 +1,24 @@
+# Archivos de compilación de Java
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de tu IDE (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.iml
+
+# Imágenes de Docker (no necesarias en Git)
+*.tar
+
+# Evitar subir datos de ejecución (opcional)
+datos.txt
