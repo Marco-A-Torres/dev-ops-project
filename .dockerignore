@@ -1,0 +1,25 @@
+# Archivos y carpetas ocultas
+.git
+.gitignore
+
+# Archivos de compilación de Java
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.iml
+
+# Otros que no necesitas en la imagen
+*.tar
